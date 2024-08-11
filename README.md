@@ -6,7 +6,7 @@ I'm highly interested in data analysis and web development, but am always open a
 Skills: HTML / CSS / Python / SQL
 
 - 🔭 I’m currently working on my personal portfolio site 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning R
 - 😄 Pronouns: She/her 
 
 
