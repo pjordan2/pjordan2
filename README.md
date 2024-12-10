@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Porscha Henderson
-I am an undergraduate student at University of Illinois Urbana-Champaign, studying Information Sciences with a minor in Recreation, Sport, and Tourism.
+I am an undergraduate student at University of Illinois Urbana-Champaign, studying Information Sciences with minors in Data Science and Recreation, Sport, and Tourism.
 
 I'm highly interested in data analysis and web development, but am always open and looking to expand my skills elsewhere as well!
 
@@ -14,8 +14,6 @@ Skills: HTML / CSS / Python / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjordan2)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pjordan2&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/pjordan2)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pjordan2&show_icons=true)   
 
 
