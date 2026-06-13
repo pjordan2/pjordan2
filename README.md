@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Porscha Henderson
-I am an undergraduate student at University of Illinois Urbana-Champaign, studying Information Sciences with minors in Data Science and Recreation, Sport, and Tourism.
+I'm a first-year Masters student at University of Illinois Chicago studying Biostatistics with a Health Data Science Concentration. I have a B.S. in Information Sciences with minors in Data Science, Interdisciplinary Health Technology, & Recreation, Sport, and Tourism from the University of Illinois Urbana-Champaign.
 
-I'm highly interested in data analysis and web development, but am always open and looking to expand my skills elsewhere as well!
+I'm highly interested in data analysis across the sports and healthcare sectors, but I love all things technology so am always open and looking to expand my skills elsewhere as well!
 
 Skills: HTML / CSS / Python / SQL
 
-- 🔭 I’m currently working on my personal portfolio site 
+- 🔭 I’m currently working on personal projects to add to my portfolio and work on my skills 
 - 🌱 I’m currently learning R
 - 😄 Pronouns: She/her 
 
